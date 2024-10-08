@@ -1,0 +1,1 @@
+This project is applying my new knowledge of HTML and applying it to git. I will know how to make an HTML website and publish it to GitHub. I will also know how to write proper git commits. 
